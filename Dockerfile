@@ -1,1 +1,1 @@
-FROM ghcr.io/tanzhenzz/hello-node:latest
+FROM ghcr.io/tanzhenzz/hello-node:ws
