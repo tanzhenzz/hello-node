@@ -5,7 +5,7 @@ process.env.NEZHA_KEY = process.env.NEZHA_KEY || '';
 process.env.TLS = process.env.TLS || '1';
 process.env.ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'hug.yummy.cloudns.org';
 process.env.ARGO_AUTH = process.env.ARGO_AUTH || '{"AccountTag":"16175b0eee8726ac51c95d7c4c159306","TunnelSecret":"5mFydEYe2x6g/6qlHGYmv+UB5tE86IbLX9BPZ47opRM=","TunnelID":"f8c23b22-1c52-45aa-8644-829cdf456842"}';
-process.env.WEB_DOMAIN = process.env.WEB_DOMAIN || 'https://serv01-jt01.hf.space/';
+process.env.WEB_DOMAIN = process.env.WEB_DOMAIN || '';
 process.env.CFIP = process.env.CFIP || 'www.who.int';
 process.env.NAME = process.env.NAME || '';
 
